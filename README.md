@@ -17,5 +17,5 @@
   
 **Python File**
 The python file - Q1.py:
-  This file has the code that I used to extract the data from the API and transform and manipulate the data into the requested CSV file.
-The CSV file can also be found in this project as "Braves.csv".
+  This file has the code that I used to extract the data from the API and transform and manipulate the data into the requested CSV file. The CSV file can also be found in this project as "Braves.csv".
+  Needed Libraries to run the code: json, pandas, and requests
