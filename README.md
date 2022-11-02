@@ -1,6 +1,4 @@
 # Braves-Trainee-Case
-In this project I have 4 coding files to answer the 1st 4 problems and the results for the fourth problem.
-
 **How to set up the SQLite enviornment**
 1. Download the "main" file
 2. Download SQLite via Terminal/Command Prompt
